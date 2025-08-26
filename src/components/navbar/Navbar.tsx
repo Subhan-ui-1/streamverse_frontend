@@ -56,6 +56,7 @@ const Navbar = () => {
                 </div>
                 <ul className='flex flex-col gap-4 text-[16px]'>
                     {/* <li className='cursor-pointer hover:text-[var(--Primary)]'>Home</li> */}
+                    {/* <li className='cursor-pointer hover:text-[var(--Primary)]'>Home</li> */}
                     <li className='py-3 lg:px-5 md:px-3 px-2 cursor-pointer hover:text-[var(--Primary)] scroll-smooth'>
                         <Link href={'/#features'}>About us</Link>
                     </li>
